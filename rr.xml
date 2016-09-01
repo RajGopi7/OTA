@@ -11,14 +11,18 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+             <MaintainerChangelogUrl
+                id="maintainerchangelog"
+                title="MaintainerChangelog"
+                description="View Maintainer Changelog">https://github.com/RajGopi7/OTA/blob/master/Changelog</MaintainerChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/Banks/</BanksGappsUrl>
+            <TBOGappsUrl
+            	id="tbo_gapps"
+            	title="TeamBlackOut GApps"
+            	description="TeamBlackOut latest GApps">http://download.dirtyunicorns.com/files/gapps/Banks/</TBOGappsUrl>
 	</oneplus2>
     </Stable>
 </SlimOTA>
