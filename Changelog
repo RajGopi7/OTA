@@ -1,1 +1,10 @@
-Chnagelog
+<!-- Changelog 20160902 -->
+Fixed off screen gestures 
+Fixed 2G issue
+Fixed music player app not responding after completion of a track(Thanks to halogenOS team)
+Fixed system app remover bug
+Built with UBER toolchain (fast, smooth n performance )
+Added OTA center(Includes ROM, Gapps, Changelogs of ROM n maintainer)
+Many cherry-picked goodies included
+I dont remember the rest
+Had to remove extra options for AlertSlider to make off screen gestures work (sorry about that)
