@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus2>
-            <Filename>ResurrectionRemix-M-v5.7.4-20160921-oneplus2.zip</Filename>
+            <Filename></Filename></Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24736070629327004</RomUrl>
+                description="Download ResurrectionRemix builds"></RomUrl>
             <RomUrlBB
                 id="rombb"
                 title="Rombb"
