@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <oneplus2>
-            <Filename></Filename>ResurrectionRemix-M-v5.7.4-20160921-oneplus2.zip</Filename>
+        <OnePlus2>
+            <Filename>ResurrectionRemix-M-v5.8.0-20161126-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
              <MaintainerChangelogUrl
                 id="maintainerchangelog"
                 title="MaintainerChangelog"
@@ -23,10 +23,6 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <TBOGappsUrl
-            	id="tbo_gapps"
-            	title="TeamBlackOut GApps"
-            	description="TeamBlackOut latest GApps">http://teamblackedout.com/Gapps//</TBOGappsUrl>
-	</oneplus2>
+	</OnePlus2>
     </Stable>
 </SlimOTA>
