@@ -9,7 +9,7 @@
 #
 ota_url=https://raw.githubusercontent.com/RajGopi7/OTA/master/rr.xml
 release_type=Stable
-device_name=ro.rr.device
+device_name=ro.product.device
  
 #
 # VERSION
