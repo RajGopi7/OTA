@@ -1,3 +1,20 @@
+<!-- Changelog 20161203 -->
+- Off Screen Gestures fixed
+- Added fast charge
+- HW keys customizations should work now
+- Selinux switch fixed
+- Omni Switch fixed
+- Compiled with UberTC
+- Few more features from RR
+- Updated sources
+- Build zip size decreased as chrome and RR wallpapers were removed
+Note : DoubleTap to wake works(Enable using Kernel Adiutor)
+
+
+<!-- Changelog 20161125 -->
+- Initial release(Nougat)
+
+
 <!-- Changelog 20160921 -->
 - Updated to 5.7.4
 - r61 -> r66
