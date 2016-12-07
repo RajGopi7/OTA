@@ -5,11 +5,11 @@
             <Filename>ResurrectionRemix-N-v5.8.0-20161203-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
+                title="Download latest build AFH"
                 description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862686324</RomUrl>
             <RomUrlBB
                 id="rombb"
-                title="Rombb"
+                title="Download latest build BB"
                 description="Download RR builds from basketbuild">https://basketbuild.com/devs/RajGopi</RomUrlBB>
             <ChangelogUrl
                 id="changelog"
