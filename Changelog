@@ -1,4 +1,11 @@
-<!-- Changelog 20161203 -->
+<!-- Changelog 20161209 -->
+- Added fast charge back (fast charge as in charging will be faster than before)
+- Navigation bar auto hide fixed
+- Custom color for notification LED should be fixed
+- Pulled updates from latest Hydrogen build (Thanks to Grarak)
+- Sorry for eating up your bandwidth with this quick update(Full ROM)
+
+<!-- Changelog 20161208 -->
 - based on android 7.1.1
 - DoubleTap2Wake fixed
 - UberTC n fast charge removed xD (battery drain n heating issue as reported by users)
