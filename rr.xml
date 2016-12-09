@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <OnePlus2>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161208-oneplus2.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161209-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download latest build AFH"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862687358</RomUrl>
-            <RomUrlBB
-                id="rombb"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=457095661767121670</RomUrl>
+            <BBUrl
+                id="bb"
                 title="Download latest build BB"
-                description="Download RR builds from basketbuild">https://basketbuild.com/devs/RajGopi</RomUrlBB>
+                description="Download RR builds from basketbuild">https://basketbuild.com/devs/RajGopi</BBUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
