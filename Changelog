@@ -1,3 +1,10 @@
+<!-- Changelog 20170201 -->
+- Updated source n device tree
+- Full OMS support for theming (Oh yeah baby:cool:)
+- January security patch
+- Network drop issues should be fixed
+- Detailed changelog in settings->configurations->About->Changelog
+
 <!-- Changelog 20170102 -->
 - Nothing much to say
 - Updated sources n upstream
